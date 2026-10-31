@@ -1,0 +1,6 @@
+{
+  "name": "MECHCODE QUEST – ಕನ್ನಡದಲ್ಲಿ Python ಕಲಿಯೋಣ!",
+  "description": "Gamified Programming Concepts in Mechanical Engineering for III Sem Diploma students at Adichunchanagiri Polytechnic, Chikkamagaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
